@@ -23,10 +23,6 @@ The project consists of two main components:
 - Processes questions using AI models (HuggingFace Gemma)
 - Provides RESTful API endpoints
 
-2. **Chrome Extension**
-   - Modern, responsive UI
-   - Integrates directly with YouTube pages
-
 - Fetches transcripts from the open YouTube tab using the browser's IP
 - Communicates with the backend API
 
